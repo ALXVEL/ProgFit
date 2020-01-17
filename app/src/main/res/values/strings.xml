@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProgFit</string>
+    <string name="title">ProgFit</string>
+    <string name="author">by Alex Velikiy</string>
+    <string name="squat_title">Squat</string>
+    <string name="weight">What weight did you do today?</string>
+    <string name="enter_button">Enter</string>
+    <string name="remove_button">Remove</string>
+    <string name="graph_button">Graph</string>
+    <string name="title_activity_graph">GraphActivity</string>
+</resources>
